@@ -1,0 +1,1 @@
+Hi, I'm Juan Carlos and this is my submitted assignments for Full Stack Open Course.
